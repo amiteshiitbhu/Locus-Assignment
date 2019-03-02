@@ -1,0 +1,50 @@
+[
+  {
+    "type" : "PHOTO",
+    "id" : "pic1",
+    "title" : "Photo 1",
+    "dataMap" : {}
+  },
+  {
+    "type" : "SINGLE_CHOICE",
+    "id" : "choice1",
+    "title" : "Photo 1 choice",
+    "dataMap" : {
+      "options" : [
+        "Good",
+        "OK",
+        "Bad"
+      ]
+    }
+  },
+  {
+    "type" : "COMMENT",
+    "id" : "comment1",
+    "title" : "Photo 1 comments",
+    "dataMap" : {}
+  },
+  {
+    "type" : "PHOTO",
+    "id" : "pic2",
+    "title" : "Photo 2",
+    "dataMap" : {}
+  },
+  {
+    "type" : "SINGLE_CHOICE",
+    "id" : "choice2",
+    "title" : "Photo 2 choice",
+    "dataMap" : {
+      "options" : [
+        "Good",
+        "OK",
+        "Bad"
+      ]
+    }
+  },
+  {
+    "type" : "COMMENT",
+    "id" : "comment2",
+    "title" : "Photo 2 comments",
+    "dataMap" : {}
+  }
+]
